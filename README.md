@@ -1,6 +1,6 @@
 # Jev vs Kev
 
-Code and data for the Opper blog post [How close can a week-old open model get to Jev?](https://opper.ai/blog/jev-vs-kev-open-decision-model)
+Code and data for the Opper blog post [Is there an open-source alternative to Jev? We tested Kev](https://opper.ai/blog/jev-vs-kev-open-decision-model)
 
 We asked TypeSafe's [Jev](https://docs.typesafe.ai/models) and [Kev 4B](https://huggingface.co/jaredpalmer/kev-4b), an open reproduction, the same typed questions through the same API endpoint. The headline test set is 362 items published after both models were released, with answers taken from the source itself.
 
